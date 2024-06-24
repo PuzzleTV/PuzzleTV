@@ -2,7 +2,7 @@
 
 ### Hi, I'm Puzzle.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=FiveM+Developer)](https://github.com/PuzzleTV)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&lines=Developer)](https://github.com/PuzzleTV)
 
 ## 📊 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/161208118909468672)](https://discord.com/users/161208118909468672)
